@@ -1,2 +1,3 @@
 # INT-219
-Full Stack Project (Continuous Assignment)
+My first project before diving in the Web Development.
+HTML CSS  Project (Continuous Assignment)
